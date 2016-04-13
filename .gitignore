@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+*.iml
+velocity.log
+.vertx
+file-uploads
+target
